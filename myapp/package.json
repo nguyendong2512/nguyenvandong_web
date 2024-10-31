@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "name": "myapp",
+  "version": "1.0.0",
+  "main": "App.js",
+  "type": "module",
+  "devDependencies": {},    
+  "scripts": {
+    "start": "node App.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
