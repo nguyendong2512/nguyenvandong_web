@@ -1,15 +1,16 @@
 {
-  "name": "api_mysql",
+  "name": "frontend",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.21.1",
-    "mysql2": "^3.11.3"
+    "mysql": "^2.18.1"
   }
 }
